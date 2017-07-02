@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      New Post
-author:     Ahmet Cecen
+title:      Chinh phục Android
+author:     Trần Quốc Khánh
 tags: 		post template
-subtitle:  	Some Short Description of Post
-category:  project1
+subtitle:  	Theo đi rồi biết
+category:  hanhtrinh
 ---
 <!-- Start Writing Below in Markdown -->
 
