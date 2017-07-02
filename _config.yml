@@ -32,7 +32,7 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 defaults:
   -
     scope:
-      path: "projects"
+      path: ""
       type: "pages"
     values:
       layout: "project"
