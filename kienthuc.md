@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: category
 title: "Kiến thức"
 description: "Những kiến thức cần thiết."
 header-img: "img/home-bg.jpg"
