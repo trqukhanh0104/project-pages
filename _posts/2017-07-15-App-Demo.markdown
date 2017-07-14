@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Demo Nhan dien Idol
-author:     Trần Quốc Khánh
+title:      Demo Nhan dien Idol - Ung cung cuc hay danh cho thanh nien Fa lau nam... (hehe)
+author:   Trần Quốc Khánh
 tags: 		post template
 subtitle:  	Theo đi rồi biết
 ---
